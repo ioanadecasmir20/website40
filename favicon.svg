@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#07162f"/>
+  <path d="M18 58h45v12H18z" fill="#f5b642"/>
+  <path d="M60 43h16l10 15v12H60z" fill="#f5b642"/>
+  <circle cx="32" cy="75" r="7" fill="#fff"/>
+  <circle cx="74" cy="75" r="7" fill="#fff"/>
+  <text x="50" y="35" text-anchor="middle" font-family="Arial" font-size="24" font-weight="800" fill="#fff">DT</text>
+</svg>
